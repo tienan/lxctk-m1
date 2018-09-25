@@ -1,0 +1,12 @@
+Package: lxctk
+Title: Li Xiangchun's tool-kit (lxctk)
+Version: 1.61
+Date: 2016-9-8
+Author: Li Xiangchun
+Maintainer: Li Xiangchun <lixiangchun@genomics.cn>
+Description: My bioinformatics toolkit.
+Depends: R (>= 2.12.2), RColorBrewer, sm, rmeta, grid, nnet, survival, coda, rstan, arm
+Suggests: rgl, Ckmeans.1d.dp, cluster, clusterSim, plotrix, fpc, MASS, isva, fastICA, parallel, RSQLite, fastcluster, Nozzle.R1, SomaticSignatures, pmsignature, muscle, msa, VSURF, randomForest, copynumber, CNVPanelizer
+Imports: RColorBrewer
+License: GPL-2
+Packaged: 2016-9-8; lixiangchun
